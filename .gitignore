@@ -1,0 +1,15 @@
+# --- 忽略大模型文件 ---
+Auxloss-For-Advancing-Expert-Specialization/Model/
+LLaMA-Factory/saves/
+
+# --- 忽略输出结果和日志 ---
+results_val/
+failures_report.csv
+LLaMA-Factory/wandb/
+LLaMA-Factory/logs_aux_loss/
+
+# --- 忽略 Python 缓存和系统文件 ---
+__pycache__/
+*.pyc
+.DS_Store
+.env.local

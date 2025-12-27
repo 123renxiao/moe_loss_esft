@@ -1,0 +1,1276 @@
+File Name                           | Status     | Info
+-------------------------------------------------------------------------------------
+scene_025.txt                       | PASS       | Success
+scene_034.txt                       | PASS       | Success
+scene_054.txt                       | PASS       | Success
+scene_062.txt                       | PASS       | Success
+scene_073.txt                       | PASS       | Success
+scene_078.txt                       | FAIL       | Collision: Node 5->6 hit Obstacle 2
+scene_088.txt                       | PASS       | Success
+scene_098.txt                       | PASS       | Success
+scene_100.txt                       | PASS       | Success
+scene_101.txt                       | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_1014.txt                      | PASS       | Success
+scene_1027.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 3
+scene_1034.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_105.txt                       | PASS       | Success
+scene_1062.txt                      | PASS       | Success
+scene_107.txt                       | PASS       | Success
+scene_1080.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 2
+scene_1090.txt                      | PASS       | Success
+scene_1095.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 2
+scene_1097.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 3
+scene_1098.txt                      | PASS       | Success
+scene_1105.txt                      | PASS       | Success
+scene_111.txt                       | FAIL       | Collision: Node 4->5 hit Obstacle 2
+scene_1110.txt                      | PASS       | Success
+scene_1116.txt                      | PASS       | Success
+scene_1124.txt                      | PASS       | Success
+scene_1137.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_1147.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 3
+scene_1148.txt                      | PASS       | Success
+scene_1151.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 1
+scene_1159.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 1
+scene_1164.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_1175.txt                      | PASS       | Success
+scene_1189.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 1
+scene_1207.txt                      | FAIL       | Collision: Node 5->6 hit Obstacle 1
+scene_121.txt                       | PASS       | Success
+scene_1216.txt                      | PASS       | Success
+scene_1233.txt                      | PASS       | Success
+scene_1237.txt                      | FAIL       | Collision: Node 7->8 hit Obstacle 1
+scene_1239.txt                      | PASS       | Success
+scene_1240.txt                      | FAIL       | Collision: Node 8->9 hit Obstacle 0
+scene_1242.txt                      | PASS       | Success
+scene_1255.txt                      | PASS       | Success
+scene_1273.txt                      | PASS       | Success
+scene_1275.txt                      | PASS       | Success
+scene_1287.txt                      | PASS       | Success
+scene_1314.txt                      | FAIL       | Collision: Node 5->6 hit Obstacle 1
+scene_1322.txt                      | FAIL       | Collision: Node 8->9 hit Obstacle 3
+scene_1324.txt                      | FAIL       | Collision: Node 5->6 hit Obstacle 0
+scene_1354.txt                      | PASS       | Success
+scene_1364.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 4
+scene_1398.txt                      | PASS       | Success
+scene_1403.txt                      | FAIL       | Collision: Node 6->7 hit Obstacle 1
+scene_1417.txt                      | PASS       | Success
+scene_1421.txt                      | PASS       | Success
+scene_1432.txt                      | PASS       | Success
+scene_1441.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 2
+scene_1447.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_1470.txt                      | PASS       | Success
+scene_150.txt                       | PASS       | Success
+scene_1510.txt                      | PASS       | Success
+scene_1524.txt                      | PASS       | Success
+scene_1533.txt                      | PASS       | Success
+scene_1542.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 0
+scene_1547.txt                      | FAIL       | Collision: Node 8->9 hit Obstacle 2
+scene_1561.txt                      | PASS       | Success
+scene_1565.txt                      | PASS       | Success
+scene_1569.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_1579.txt                      | PASS       | Success
+scene_1587.txt                      | PASS       | Success
+scene_159.txt                       | FAIL       | Collision: Node 4->5 hit Obstacle 1
+scene_1590.txt                      | PASS       | Success
+scene_1597.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 1
+scene_1609.txt                      | PASS       | Success
+scene_1614.txt                      | PASS       | Success
+scene_1617.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_1628.txt                      | PASS       | Success
+scene_1631.txt                      | PASS       | Success
+scene_1638.txt                      | PASS       | Success
+scene_1639.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 2
+scene_1647.txt                      | PASS       | Success
+scene_1650.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 0
+scene_1657.txt                      | PASS       | Success
+scene_1662.txt                      | PASS       | Success
+scene_1681.txt                      | PASS       | Success
+scene_1698.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 2
+scene_1713.txt                      | PASS       | Success
+scene_1714.txt                      | PASS       | Success
+scene_1721.txt                      | PASS       | Success
+scene_1734.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 4
+scene_1740.txt                      | PASS       | Success
+scene_1755.txt                      | PASS       | Success
+scene_1757.txt                      | PASS       | Success
+scene_1765.txt                      | PASS       | Success
+scene_1776.txt                      | FAIL       | Collision: Node 6->7 hit Obstacle 1
+scene_1787.txt                      | PASS       | Success
+scene_1789.txt                      | FAIL       | Collision: Node 6->7 hit Obstacle 3
+scene_1798.txt                      | PASS       | Success
+scene_180.txt                       | PASS       | Success
+scene_1802.txt                      | PASS       | Success
+scene_1803.txt                      | PASS       | Success
+scene_1813.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 3
+scene_1819.txt                      | PASS       | Success
+scene_1822.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_1826.txt                      | PASS       | Success
+scene_1835.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 3
+scene_1842.txt                      | PASS       | Success
+scene_1846.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_1850.txt                      | PASS       | Success
+scene_1871.txt                      | PASS       | Success
+scene_1894.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_190.txt                       | PASS       | Success
+scene_1905.txt                      | PASS       | Success
+scene_1914.txt                      | PASS       | Success
+scene_1934.txt                      | PASS       | Success
+scene_195.txt                       | PASS       | Success
+scene_1962.txt                      | FAIL       | Collision: Node 6->7 hit Obstacle 3
+scene_1967.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 2
+scene_2023.txt                      | PASS       | Success
+scene_2034.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_2047.txt                      | PASS       | Success
+scene_2063.txt                      | PASS       | Success
+scene_2117.txt                      | PASS       | Success
+scene_2122.txt                      | PASS       | Success
+scene_2126.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 2
+scene_2141.txt                      | PASS       | Success
+scene_2173.txt                      | PASS       | Success
+scene_2174.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_2179.txt                      | FAIL       | Collision: Node 6->7 hit Obstacle 0
+scene_2191.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 0
+scene_2194.txt                      | PASS       | Success
+scene_2201.txt                      | PASS       | Success
+scene_2204.txt                      | PASS       | Success
+scene_2229.txt                      | PASS       | Success
+scene_2242.txt                      | PASS       | Success
+scene_2246.txt                      | PASS       | Success
+scene_2250.txt                      | FAIL       | Collision: Node 7->8 hit Obstacle 1
+scene_2275.txt                      | PASS       | Success
+scene_2277.txt                      | PASS       | Success
+scene_2290.txt                      | PASS       | Success
+scene_2293.txt                      | PASS       | Success
+scene_2310.txt                      | PASS       | Success
+scene_2312.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_2313.txt                      | PASS       | Success
+scene_2319.txt                      | FAIL       | Collision: Node 9->10 hit Obstacle 3
+scene_233.txt                       | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_2345.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 1
+scene_2347.txt                      | PASS       | Success
+scene_2362.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_2378.txt                      | PASS       | Success
+scene_2383.txt                      | PASS       | Success
+scene_2391.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 0
+scene_2393.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_2400.txt                      | PASS       | Success
+scene_2411.txt                      | PASS       | Success
+scene_243.txt                       | PASS       | Success
+scene_2443.txt                      | PASS       | Success
+scene_2467.txt                      | PASS       | Success
+scene_2469.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 1
+scene_249.txt                       | FAIL       | Collision: Node 2->3 hit Obstacle 1
+scene_2492.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 1
+scene_2496.txt                      | PASS       | Success
+scene_2510.txt                      | PASS       | Success
+scene_2521.txt                      | PASS       | Success
+scene_2528.txt                      | PASS       | Success
+scene_254.txt                       | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_2547.txt                      | PASS       | Success
+scene_2557.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 1
+scene_2568.txt                      | PASS       | Success
+scene_2574.txt                      | FAIL       | Collision: Node 7->8 hit Obstacle 0
+scene_258.txt                       | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_2581.txt                      | PASS       | Success
+scene_2591.txt                      | PASS       | Success
+scene_2607.txt                      | PASS       | Success
+scene_2609.txt                      | PASS       | Success
+scene_2612.txt                      | PASS       | Success
+scene_2615.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 1
+scene_262.txt                       | FAIL       | Collision: Node 2->3 hit Obstacle 0
+scene_2620.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 2
+scene_2624.txt                      | PASS       | Success
+scene_2625.txt                      | PASS       | Success
+scene_2628.txt                      | PASS       | Success
+scene_2629.txt                      | PASS       | Success
+scene_263.txt                       | PASS       | Success
+scene_2634.txt                      | PASS       | Success
+scene_2636.txt                      | PASS       | Success
+scene_2639.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_2663.txt                      | PASS       | Success
+scene_2677.txt                      | FAIL       | Collision: Node 1->2 hit Obstacle 0
+scene_2723.txt                      | PASS       | Success
+scene_2724.txt                      | PASS       | Success
+scene_2726.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_2730.txt                      | PASS       | Success
+scene_2733.txt                      | PASS       | Success
+scene_2736.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_2757.txt                      | PASS       | Success
+scene_2788.txt                      | PASS       | Success
+scene_279.txt                       | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_2793.txt                      | PASS       | Success
+scene_2794.txt                      | PASS       | Success
+scene_2806.txt                      | PASS       | Success
+scene_2808.txt                      | PASS       | Success
+scene_2813.txt                      | PASS       | Success
+scene_2828.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 2
+scene_2830.txt                      | PASS       | Success
+scene_2831.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 2
+scene_2833.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 0
+scene_2838.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_2849.txt                      | PASS       | Success
+scene_2851.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 1
+scene_2858.txt                      | FAIL       | Collision: Node 11->12 hit Obstacle 1
+scene_287.txt                       | PASS       | Success
+scene_2877.txt                      | PASS       | Success
+scene_2882.txt                      | FAIL       | Collision: Node 5->6 hit Obstacle 2
+scene_2901.txt                      | PASS       | Success
+scene_2906.txt                      | PASS       | Success
+scene_2917.txt                      | PASS       | Success
+scene_2941.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_2945.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 1
+scene_2947.txt                      | PASS       | Success
+scene_2960.txt                      | FAIL       | Collision: Node 14->15 hit Obstacle 2
+scene_2963.txt                      | PASS       | Success
+scene_2969.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 4
+scene_2973.txt                      | PASS       | Success
+scene_2976.txt                      | PASS       | Success
+scene_3006.txt                      | PASS       | Success
+scene_3007.txt                      | PASS       | Success
+scene_3008.txt                      | FAIL       | Collision: Node 7->8 hit Obstacle 0
+scene_3025.txt                      | PASS       | Success
+scene_3033.txt                      | PASS       | Success
+scene_3036.txt                      | PASS       | Success
+scene_3039.txt                      | PASS       | Success
+scene_304.txt                       | PASS       | Success
+scene_3054.txt                      | PASS       | Success
+scene_3069.txt                      | PASS       | Success
+scene_3072.txt                      | PASS       | Success
+scene_3086.txt                      | PASS       | Success
+scene_309.txt                       | PASS       | Success
+scene_3106.txt                      | PASS       | Success
+scene_3108.txt                      | PASS       | Success
+scene_3123.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_3128.txt                      | PASS       | Success
+scene_3173.txt                      | PASS       | Success
+scene_3184.txt                      | PASS       | Success
+scene_3209.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 3
+scene_3213.txt                      | PASS       | Success
+scene_3218.txt                      | PASS       | Success
+scene_3238.txt                      | PASS       | Success
+scene_3240.txt                      | PASS       | Success
+scene_3242.txt                      | PASS       | Success
+scene_3243.txt                      | PASS       | Success
+scene_3261.txt                      | PASS       | Success
+scene_3263.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 0
+scene_3294.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 2
+scene_330.txt                       | PASS       | Success
+scene_3304.txt                      | PASS       | Success
+scene_3319.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 3
+scene_3330.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 0
+scene_3347.txt                      | PASS       | Success
+scene_3364.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 2
+scene_337.txt                       | PASS       | Success
+scene_3370.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 1
+scene_3371.txt                      | PASS       | Success
+scene_3379.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 1
+scene_3417.txt                      | PASS       | Success
+scene_3449.txt                      | PASS       | Success
+scene_3451.txt                      | PASS       | Success
+scene_3460.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 4
+scene_3463.txt                      | PASS       | Success
+scene_3464.txt                      | PASS       | Success
+scene_348.txt                       | PASS       | Success
+scene_3488.txt                      | PASS       | Success
+scene_3497.txt                      | PASS       | Success
+scene_350.txt                       | PASS       | Success
+scene_3504.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 0
+scene_3511.txt                      | PASS       | Success
+scene_3528.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 2
+scene_3545.txt                      | PASS       | Success
+scene_3555.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 1
+scene_3565.txt                      | PASS       | Success
+scene_3568.txt                      | PASS       | Success
+scene_3597.txt                      | PASS       | Success
+scene_3601.txt                      | PASS       | Success
+scene_361.txt                       | FAIL       | Collision: Node 5->6 hit Obstacle 1
+scene_3612.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 3
+scene_3613.txt                      | PASS       | Success
+scene_3618.txt                      | PASS       | Success
+scene_362.txt                       | PASS       | Success
+scene_363.txt                       | PASS       | Success
+scene_3632.txt                      | PASS       | Success
+scene_3636.txt                      | PASS       | Success
+scene_3645.txt                      | PASS       | Success
+scene_3649.txt                      | PASS       | Success
+scene_3653.txt                      | PASS       | Success
+scene_3657.txt                      | PASS       | Success
+scene_3659.txt                      | FAIL       | Collision: Node 1->2 hit Obstacle 1
+scene_3664.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_3666.txt                      | PASS       | Success
+scene_3669.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 1
+scene_3670.txt                      | PASS       | Success
+scene_3679.txt                      | PASS       | Success
+scene_368.txt                       | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_3681.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 1
+scene_3682.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_3685.txt                      | FAIL       | Collision: Node 5->6 hit Obstacle 4
+scene_3686.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 2
+scene_3689.txt                      | PASS       | Success
+scene_3692.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 3
+scene_3707.txt                      | FAIL       | Collision: Node 5->6 hit Obstacle 3
+scene_3720.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 1
+scene_3731.txt                      | PASS       | Success
+scene_3777.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 4
+scene_3788.txt                      | PASS       | Success
+scene_3790.txt                      | PASS       | Success
+scene_3797.txt                      | PASS       | Success
+scene_3798.txt                      | PASS       | Success
+scene_3801.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_3803.txt                      | PASS       | Success
+scene_3807.txt                      | PASS       | Success
+scene_3808.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 1
+scene_3823.txt                      | PASS       | Success
+scene_3824.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_3842.txt                      | PASS       | Success
+scene_3853.txt                      | PASS       | Success
+scene_3878.txt                      | PASS       | Success
+scene_3898.txt                      | PASS       | Success
+scene_3907.txt                      | PASS       | Success
+scene_3913.txt                      | PASS       | Success
+scene_3931.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 4
+scene_3947.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 1
+scene_3958.txt                      | PASS       | Success
+scene_3982.txt                      | PASS       | Success
+scene_3995.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_4014.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 1
+scene_4037.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 2
+scene_4039.txt                      | PASS       | Success
+scene_4041.txt                      | PASS       | Success
+scene_4042.txt                      | PASS       | Success
+scene_4056.txt                      | FAIL       | Collision: Node 8->9 hit Obstacle 0
+scene_4087.txt                      | PASS       | Success
+scene_4090.txt                      | PASS       | Success
+scene_410.txt                       | FAIL       | Collision: Node 4->5 hit Obstacle 4
+scene_4122.txt                      | PASS       | Success
+scene_4131.txt                      | FAIL       | Collision: Node 1->2 hit Obstacle 4
+scene_4142.txt                      | PASS       | Success
+scene_4144.txt                      | PASS       | Success
+scene_4154.txt                      | PASS       | Success
+scene_4166.txt                      | PASS       | Success
+scene_4175.txt                      | PASS       | Success
+scene_4199.txt                      | PASS       | Success
+scene_4212.txt                      | PASS       | Success
+scene_4223.txt                      | PASS       | Success
+scene_423.txt                       | PASS       | Success
+scene_4235.txt                      | FAIL       | Collision: Node 6->7 hit Obstacle 0
+scene_424.txt                       | FAIL       | Collision: Node 7->8 hit Obstacle 2
+scene_4243.txt                      | PASS       | Success
+scene_4253.txt                      | PASS       | Success
+scene_4254.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 0
+scene_4257.txt                      | FAIL       | Collision: Node 6->7 hit Obstacle 3
+scene_4258.txt                      | PASS       | Success
+scene_4269.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 0
+scene_4275.txt                      | PASS       | Success
+scene_4277.txt                      | PASS       | Success
+scene_4315.txt                      | PASS       | Success
+scene_4317.txt                      | PASS       | Success
+scene_4318.txt                      | PASS       | Success
+scene_4326.txt                      | PASS       | Success
+scene_4332.txt                      | FAIL       | Collision: Node 9->10 hit Obstacle 3
+scene_435.txt                       | FAIL       | Collision: Node 5->6 hit Obstacle 1
+scene_4370.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_4372.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 4
+scene_4376.txt                      | PASS       | Success
+scene_4379.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 3
+scene_4381.txt                      | PASS       | Success
+scene_4382.txt                      | PASS       | Success
+scene_4386.txt                      | PASS       | Success
+scene_4394.txt                      | PASS       | Success
+scene_4396.txt                      | PASS       | Success
+scene_4406.txt                      | FAIL       | Collision: Node 1->2 hit Obstacle 4
+scene_4409.txt                      | PASS       | Success
+scene_4431.txt                      | PASS       | Success
+scene_4446.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 2
+scene_445.txt                       | PASS       | Success
+scene_4453.txt                      | PASS       | Success
+scene_446.txt                       | PASS       | Success
+scene_4462.txt                      | PASS       | Success
+scene_4474.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 0
+scene_4475.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 4
+scene_4488.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 1
+scene_4523.txt                      | PASS       | Success
+scene_4526.txt                      | PASS       | Success
+scene_4544.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 1
+scene_4546.txt                      | PASS       | Success
+scene_4556.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 1
+scene_4560.txt                      | PASS       | Success
+scene_4576.txt                      | PASS       | Success
+scene_4609.txt                      | FAIL       | Collision: Node 1->2 hit Obstacle 3
+scene_4617.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 1
+scene_4711.txt                      | PASS       | Success
+scene_4715.txt                      | PASS       | Success
+scene_4721.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 1
+scene_4726.txt                      | PASS       | Success
+scene_4742.txt                      | PASS       | Success
+scene_4752.txt                      | PASS       | Success
+scene_4754.txt                      | FAIL       | Collision: Node 1->2 hit Obstacle 1
+scene_4758.txt                      | PASS       | Success
+scene_4765.txt                      | PASS       | Success
+scene_4768.txt                      | FAIL       | Collision: Node 7->8 hit Obstacle 3
+scene_4772.txt                      | PASS       | Success
+scene_4776.txt                      | PASS       | Success
+scene_4783.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 3
+scene_4787.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_4796.txt                      | PASS       | Success
+scene_4800.txt                      | PASS       | Success
+scene_4802.txt                      | PASS       | Success
+scene_4812.txt                      | PASS       | Success
+scene_4821.txt                      | PASS       | Success
+scene_4825.txt                      | PASS       | Success
+scene_4826.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 4
+scene_4838.txt                      | PASS       | Success
+scene_4866.txt                      | FAIL       | Collision: Node 5->6 hit Obstacle 4
+scene_4870.txt                      | PASS       | Success
+scene_4889.txt                      | PASS       | Success
+scene_4893.txt                      | PASS       | Success
+scene_4923.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 2
+scene_4930.txt                      | PASS       | Success
+scene_4957.txt                      | PASS       | Success
+scene_4960.txt                      | PASS       | Success
+scene_4981.txt                      | PASS       | Success
+scene_4982.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_5001.txt                      | PASS       | Success
+scene_5028.txt                      | PASS       | Success
+scene_5032.txt                      | PASS       | Success
+scene_505.txt                       | PASS       | Success
+scene_5056.txt                      | PASS       | Success
+scene_508.txt                       | PASS       | Success
+scene_5080.txt                      | PASS       | Success
+scene_5088.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 1
+scene_5106.txt                      | PASS       | Success
+scene_5145.txt                      | PASS       | Success
+scene_5152.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_5160.txt                      | PASS       | Success
+scene_5161.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 1
+scene_5182.txt                      | PASS       | Success
+scene_5186.txt                      | PASS       | Success
+scene_5195.txt                      | FAIL       | Collision: Node 6->7 hit Obstacle 3
+scene_5197.txt                      | PASS       | Success
+scene_5200.txt                      | FAIL       | Collision: Node 10->11 hit Obstacle 3
+scene_5203.txt                      | PASS       | Success
+scene_5213.txt                      | PASS       | Success
+scene_5223.txt                      | PASS       | Success
+scene_5230.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_528.txt                       | PASS       | Success
+scene_5289.txt                      | PASS       | Success
+scene_5290.txt                      | PASS       | Success
+scene_5301.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 4
+scene_5302.txt                      | FAIL       | Collision: Node 9->10 hit Obstacle 0
+scene_5338.txt                      | PASS       | Success
+scene_5346.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 0
+scene_5356.txt                      | PASS       | Success
+scene_537.txt                       | FAIL       | Collision: Node 2->3 hit Obstacle 4
+scene_5376.txt                      | PASS       | Success
+scene_5377.txt                      | PASS       | Success
+scene_5388.txt                      | PASS       | Success
+scene_5389.txt                      | PASS       | Success
+scene_5390.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 0
+scene_5391.txt                      | PASS       | Success
+scene_5394.txt                      | PASS       | Success
+scene_5405.txt                      | FAIL       | Collision: Node 5->6 hit Obstacle 3
+scene_5407.txt                      | FAIL       | Collision: Node 1->2 hit Obstacle 2
+scene_5435.txt                      | PASS       | Success
+scene_5438.txt                      | PASS       | Success
+scene_544.txt                       | PASS       | Success
+scene_546.txt                       | PASS       | Success
+scene_5480.txt                      | PASS       | Success
+scene_5492.txt                      | PASS       | Success
+scene_5503.txt                      | PASS       | Success
+scene_5507.txt                      | PASS       | Success
+scene_5544.txt                      | FAIL       | Collision: Node 23->24 hit Obstacle 2
+scene_5557.txt                      | FAIL       | Collision: Node 7->8 hit Obstacle 0
+scene_5574.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 0
+scene_5577.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_5578.txt                      | FAIL       | Collision: Node 6->7 hit Obstacle 4
+scene_5582.txt                      | PASS       | Success
+scene_5591.txt                      | PASS       | Success
+scene_5598.txt                      | PASS       | Success
+scene_5618.txt                      | PASS       | Success
+scene_5637.txt                      | PASS       | Success
+scene_564.txt                       | PASS       | Success
+scene_5653.txt                      | PASS       | Success
+scene_5659.txt                      | PASS       | Success
+scene_5664.txt                      | PASS       | Success
+scene_5670.txt                      | PASS       | Success
+scene_5678.txt                      | PASS       | Success
+scene_5726.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_5730.txt                      | PASS       | Success
+scene_574.txt                       | PASS       | Success
+scene_5763.txt                      | PASS       | Success
+scene_5774.txt                      | PASS       | Success
+scene_5781.txt                      | PASS       | Success
+scene_5791.txt                      | PASS       | Success
+scene_5802.txt                      | FAIL       | Collision: Node 8->9 hit Obstacle 2
+scene_5805.txt                      | FAIL       | Collision: Node 5->6 hit Obstacle 1
+scene_5807.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 1
+scene_5810.txt                      | PASS       | Success
+scene_5831.txt                      | PASS       | Success
+scene_5834.txt                      | PASS       | Success
+scene_5841.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 1
+scene_5862.txt                      | FAIL       | Collision: Node 12->13 hit Obstacle 4
+scene_5870.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 4
+scene_5871.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 0
+scene_5879.txt                      | PASS       | Success
+scene_5890.txt                      | PASS       | Success
+scene_5895.txt                      | FAIL       | Collision: Node 5->6 hit Obstacle 3
+scene_5902.txt                      | PASS       | Success
+scene_5927.txt                      | PASS       | Success
+scene_593.txt                       | FAIL       | Collision: Node 2->3 hit Obstacle 4
+scene_5950.txt                      | PASS       | Success
+scene_5953.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_5956.txt                      | PASS       | Success
+scene_5958.txt                      | PASS       | Success
+scene_596.txt                       | FAIL       | Collision: Node 0->1 hit Obstacle 3
+scene_5984.txt                      | PASS       | Success
+scene_5987.txt                      | PASS       | Success
+scene_5995.txt                      | PASS       | Success
+scene_600.txt                       | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_6001.txt                      | PASS       | Success
+scene_6004.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 2
+scene_6012.txt                      | PASS       | Success
+scene_6017.txt                      | PASS       | Success
+scene_6024.txt                      | PASS       | Success
+scene_6033.txt                      | PASS       | Success
+scene_6037.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 4
+scene_604.txt                       | PASS       | Success
+scene_6047.txt                      | PASS       | Success
+scene_6050.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 2
+scene_6055.txt                      | PASS       | Success
+scene_6059.txt                      | PASS       | Success
+scene_6084.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_6096.txt                      | PASS       | Success
+scene_6101.txt                      | PASS       | Success
+scene_612.txt                       | PASS       | Success
+scene_6122.txt                      | PASS       | Success
+scene_6135.txt                      | PASS       | Success
+scene_6155.txt                      | FAIL       | Collision: Node 5->6 hit Obstacle 1
+scene_616.txt                       | FAIL       | Collision: Node 4->5 hit Obstacle 1
+scene_6177.txt                      | PASS       | Success
+scene_6189.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 0
+scene_621.txt                       | FAIL       | Collision: Node 5->6 hit Obstacle 1
+scene_6215.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_623.txt                       | PASS       | Success
+scene_6234.txt                      | PASS       | Success
+scene_6247.txt                      | FAIL       | Collision: Node 7->8 hit Obstacle 3
+scene_626.txt                       | PASS       | Success
+scene_6283.txt                      | PASS       | Success
+scene_6290.txt                      | PASS       | Success
+scene_6303.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 2
+scene_6307.txt                      | FAIL       | Collision: Node 1->2 hit Obstacle 3
+scene_6309.txt                      | PASS       | Success
+scene_6326.txt                      | PASS       | Success
+scene_6328.txt                      | PASS       | Success
+scene_6334.txt                      | PASS       | Success
+scene_6343.txt                      | PASS       | Success
+scene_6352.txt                      | PASS       | Success
+scene_6367.txt                      | PASS       | Success
+scene_6372.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 3
+scene_6375.txt                      | PASS       | Success
+scene_6393.txt                      | PASS       | Success
+scene_6400.txt                      | PASS       | Success
+scene_6405.txt                      | PASS       | Success
+scene_6407.txt                      | PASS       | Success
+scene_6410.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 2
+scene_6414.txt                      | PASS       | Success
+scene_6425.txt                      | PASS       | Success
+scene_6435.txt                      | FAIL       | Collision: Node 6->7 hit Obstacle 3
+scene_6436.txt                      | PASS       | Success
+scene_6443.txt                      | PASS       | Success
+scene_6448.txt                      | PASS       | Success
+scene_6451.txt                      | PASS       | Success
+scene_6460.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 1
+scene_6462.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_6466.txt                      | PASS       | Success
+scene_6483.txt                      | PASS       | Success
+scene_6493.txt                      | PASS       | Success
+scene_6513.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 2
+scene_6518.txt                      | FAIL       | Collision: Node 5->6 hit Obstacle 2
+scene_6538.txt                      | FAIL       | Collision: Node 8->9 hit Obstacle 0
+scene_6552.txt                      | PASS       | Success
+scene_6586.txt                      | PASS       | Success
+scene_6588.txt                      | PASS       | Success
+scene_6592.txt                      | FAIL       | Collision: Node 7->8 hit Obstacle 2
+scene_6593.txt                      | PASS       | Success
+scene_6605.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 1
+scene_6607.txt                      | PASS       | Success
+scene_6614.txt                      | FAIL       | Collision: Node 6->7 hit Obstacle 2
+scene_6620.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 2
+scene_6632.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 2
+scene_6642.txt                      | PASS       | Success
+scene_6652.txt                      | PASS       | Success
+scene_6653.txt                      | PASS       | Success
+scene_6655.txt                      | FAIL       | Collision: Node 1->2 hit Obstacle 2
+scene_6658.txt                      | FAIL       | Collision: Node 5->6 hit Obstacle 3
+scene_6681.txt                      | FAIL       | Collision: Node 5->6 hit Obstacle 0
+scene_6697.txt                      | PASS       | Success
+scene_670.txt                       | PASS       | Success
+scene_6722.txt                      | PASS       | Success
+scene_6727.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 3
+scene_6743.txt                      | PASS       | Success
+scene_6752.txt                      | PASS       | Success
+scene_6757.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 1
+scene_6776.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 1
+scene_6803.txt                      | PASS       | Success
+scene_6806.txt                      | PASS       | Success
+scene_6843.txt                      | PASS       | Success
+scene_685.txt                       | PASS       | Success
+scene_6854.txt                      | PASS       | Success
+scene_6859.txt                      | PASS       | Success
+scene_6861.txt                      | FAIL       | Collision: Node 1->2 hit Obstacle 2
+scene_6862.txt                      | PASS       | Success
+scene_6876.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_6881.txt                      | PASS       | Success
+scene_6885.txt                      | PASS       | Success
+scene_6887.txt                      | PASS       | Success
+scene_6891.txt                      | PASS       | Success
+scene_6896.txt                      | PASS       | Success
+scene_6901.txt                      | PASS       | Success
+scene_6908.txt                      | FAIL       | Collision: Node 6->7 hit Obstacle 2
+scene_691.txt                       | PASS       | Success
+scene_6916.txt                      | PASS       | Success
+scene_6923.txt                      | PASS       | Success
+scene_695.txt                       | PASS       | Success
+scene_6965.txt                      | PASS       | Success
+scene_6968.txt                      | FAIL       | Collision: Node 9->10 hit Obstacle 3
+scene_6969.txt                      | PASS       | Success
+scene_6971.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_6972.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 3
+scene_6980.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 0
+scene_6984.txt                      | PASS       | Success
+scene_6996.txt                      | PASS       | Success
+scene_7004.txt                      | PASS       | Success
+scene_7020.txt                      | PASS       | Success
+scene_7021.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_7022.txt                      | PASS       | Success
+scene_7023.txt                      | PASS       | Success
+scene_7031.txt                      | PASS       | Success
+scene_7036.txt                      | FAIL       | Collision: Node 8->9 hit Obstacle 3
+scene_7047.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 3
+scene_7055.txt                      | PASS       | Success
+scene_7067.txt                      | PASS       | Success
+scene_7068.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_7085.txt                      | FAIL       | Collision: Node 8->9 hit Obstacle 0
+scene_7097.txt                      | PASS       | Success
+scene_7103.txt                      | PASS       | Success
+scene_7106.txt                      | PASS       | Success
+scene_7108.txt                      | PASS       | Success
+scene_7111.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 0
+scene_7119.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 1
+scene_7122.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_7160.txt                      | PASS       | Success
+scene_7164.txt                      | PASS       | Success
+scene_7190.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 2
+scene_7204.txt                      | PASS       | Success
+scene_7208.txt                      | PASS       | Success
+scene_7217.txt                      | PASS       | Success
+scene_7231.txt                      | PASS       | Success
+scene_7242.txt                      | PASS       | Success
+scene_7264.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 2
+scene_7273.txt                      | PASS       | Success
+scene_7280.txt                      | PASS       | Success
+scene_7295.txt                      | PASS       | Success
+scene_732.txt                       | PASS       | Success
+scene_7328.txt                      | PASS       | Success
+scene_7333.txt                      | PASS       | Success
+scene_7368.txt                      | PASS       | Success
+scene_7370.txt                      | PASS       | Success
+scene_7376.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 0
+scene_7387.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 1
+scene_7391.txt                      | PASS       | Success
+scene_7409.txt                      | PASS       | Success
+scene_7421.txt                      | PASS       | Success
+scene_7432.txt                      | PASS       | Success
+scene_7434.txt                      | PASS       | Success
+scene_7467.txt                      | FAIL       | Collision: Node 7->8 hit Obstacle 2
+scene_7469.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 1
+scene_748.txt                       | PASS       | Success
+scene_7481.txt                      | PASS       | Success
+scene_7489.txt                      | PASS       | Success
+scene_7505.txt                      | PASS       | Success
+scene_7522.txt                      | PASS       | Success
+scene_7541.txt                      | PASS       | Success
+scene_7592.txt                      | FAIL       | Collision: Node 7->8 hit Obstacle 0
+scene_7601.txt                      | FAIL       | Collision: Node 1->2 hit Obstacle 3
+scene_7603.txt                      | PASS       | Success
+scene_7607.txt                      | FAIL       | Collision: Node 7->8 hit Obstacle 1
+scene_7613.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 3
+scene_7615.txt                      | PASS       | Success
+scene_7633.txt                      | PASS       | Success
+scene_7640.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 3
+scene_765.txt                       | FAIL       | Collision: Node 9->10 hit Obstacle 2
+scene_7670.txt                      | FAIL       | Collision: Node 1->2 hit Obstacle 2
+scene_7675.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 0
+scene_7684.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 2
+scene_7708.txt                      | PASS       | Success
+scene_7713.txt                      | PASS       | Success
+scene_7715.txt                      | PASS       | Success
+scene_7719.txt                      | PASS       | Success
+scene_7720.txt                      | FAIL       | Collision: Node 5->6 hit Obstacle 3
+scene_7736.txt                      | PASS       | Success
+scene_7754.txt                      | PASS       | Success
+scene_7766.txt                      | PASS       | Success
+scene_7784.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 1
+scene_7803.txt                      | PASS       | Success
+scene_7821.txt                      | PASS       | Success
+scene_7826.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 3
+scene_783.txt                       | FAIL       | Collision: Node 6->7 hit Obstacle 1
+scene_7842.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 0
+scene_7848.txt                      | PASS       | Success
+scene_7866.txt                      | PASS       | Success
+scene_7874.txt                      | PASS       | Success
+scene_7879.txt                      | PASS       | Success
+scene_788.txt                       | PASS       | Success
+scene_7880.txt                      | PASS       | Success
+scene_7885.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 3
+scene_7890.txt                      | PASS       | Success
+scene_7903.txt                      | PASS       | Success
+scene_7921.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_7930.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_7954.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 1
+scene_7966.txt                      | PASS       | Success
+scene_7967.txt                      | PASS       | Success
+scene_797.txt                       | FAIL       | Collision: Node 2->3 hit Obstacle 4
+scene_800.txt                       | PASS       | Success
+scene_8011.txt                      | PASS       | Success
+scene_8013.txt                      | PASS       | Success
+scene_8019.txt                      | PASS       | Success
+scene_8034.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 0
+scene_805.txt                       | PASS       | Success
+scene_8057.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 4
+scene_8067.txt                      | PASS       | Success
+scene_8083.txt                      | PASS       | Success
+scene_8088.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 1
+scene_8094.txt                      | PASS       | Success
+scene_8099.txt                      | PASS       | Success
+scene_8100.txt                      | PASS       | Success
+scene_8117.txt                      | PASS       | Success
+scene_8123.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 1
+scene_8156.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 4
+scene_8160.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_8177.txt                      | PASS       | Success
+scene_8192.txt                      | PASS       | Success
+scene_8195.txt                      | PASS       | Success
+scene_8198.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 1
+scene_820.txt                       | PASS       | Success
+scene_8203.txt                      | PASS       | Success
+scene_8217.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 3
+scene_823.txt                       | PASS       | Success
+scene_8231.txt                      | PASS       | Success
+scene_8238.txt                      | PASS       | Success
+scene_8245.txt                      | PASS       | Success
+scene_8263.txt                      | PASS       | Success
+scene_8278.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 2
+scene_829.txt                       | FAIL       | Collision: Node 6->7 hit Obstacle 3
+scene_8307.txt                      | FAIL       | Collision: Node 5->6 hit Obstacle 1
+scene_8308.txt                      | PASS       | Success
+scene_8309.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 0
+scene_8315.txt                      | PASS       | Success
+scene_8320.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_8327.txt                      | FAIL       | Collision: Node 6->7 hit Obstacle 3
+scene_834.txt                       | PASS       | Success
+scene_8344.txt                      | PASS       | Success
+scene_8347.txt                      | PASS       | Success
+scene_8353.txt                      | PASS       | Success
+scene_8365.txt                      | PASS       | Success
+scene_8368.txt                      | PASS       | Success
+scene_8380.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 4
+scene_8388.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_8404.txt                      | PASS       | Success
+scene_8409.txt                      | PASS       | Success
+scene_8410.txt                      | PASS       | Success
+scene_8417.txt                      | PASS       | Success
+scene_8419.txt                      | PASS       | Success
+scene_8440.txt                      | PASS       | Success
+scene_8441.txt                      | PASS       | Success
+scene_8453.txt                      | PASS       | Success
+scene_8454.txt                      | PASS       | Success
+scene_8455.txt                      | PASS       | Success
+scene_8457.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 1
+scene_8482.txt                      | PASS       | Success
+scene_8483.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 4
+scene_8496.txt                      | PASS       | Success
+scene_8511.txt                      | PASS       | Success
+scene_8516.txt                      | PASS       | Success
+scene_8521.txt                      | PASS       | Success
+scene_8532.txt                      | PASS       | Success
+scene_8542.txt                      | PASS       | Success
+scene_8544.txt                      | PASS       | Success
+scene_8550.txt                      | PASS       | Success
+scene_8561.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_8564.txt                      | PASS       | Success
+scene_8568.txt                      | PASS       | Success
+scene_8595.txt                      | PASS       | Success
+scene_8597.txt                      | PASS       | Success
+scene_860.txt                       | PASS       | Success
+scene_8601.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 1
+scene_8604.txt                      | PASS       | Success
+scene_8607.txt                      | PASS       | Success
+scene_8613.txt                      | PASS       | Success
+scene_8643.txt                      | PASS       | Success
+scene_8657.txt                      | PASS       | Success
+scene_867.txt                       | FAIL       | Collision: Node 3->4 hit Obstacle 1
+scene_8674.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 0
+scene_8677.txt                      | PASS       | Success
+scene_8684.txt                      | PASS       | Success
+scene_8693.txt                      | PASS       | Success
+scene_8701.txt                      | PASS       | Success
+scene_8710.txt                      | PASS       | Success
+scene_8719.txt                      | PASS       | Success
+scene_8734.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_8737.txt                      | PASS       | Success
+scene_875.txt                       | PASS       | Success
+scene_8753.txt                      | PASS       | Success
+scene_8766.txt                      | PASS       | Success
+scene_8772.txt                      | PASS       | Success
+scene_8777.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 3
+scene_8781.txt                      | PASS       | Success
+scene_8787.txt                      | FAIL       | Collision: Node 1->2 hit Obstacle 2
+scene_8793.txt                      | PASS       | Success
+scene_8799.txt                      | PASS       | Success
+scene_8803.txt                      | PASS       | Success
+scene_881.txt                       | PASS       | Success
+scene_8815.txt                      | FAIL       | Collision: Node 5->6 hit Obstacle 2
+scene_8822.txt                      | PASS       | Success
+scene_8827.txt                      | PASS       | Success
+scene_8838.txt                      | PASS       | Success
+scene_8879.txt                      | FAIL       | Collision: Node 16->17 hit Obstacle 2
+scene_8891.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 1
+scene_8903.txt                      | PASS       | Success
+scene_8915.txt                      | PASS       | Success
+scene_8923.txt                      | FAIL       | Collision: Node 6->7 hit Obstacle 1
+scene_8929.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 2
+scene_893.txt                       | PASS       | Success
+scene_8952.txt                      | PASS       | Success
+scene_8955.txt                      | PASS       | Success
+scene_8975.txt                      | PASS       | Success
+scene_8979.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 3
+scene_8983.txt                      | PASS       | Success
+scene_8991.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 3
+scene_8992.txt                      | PASS       | Success
+scene_8996.txt                      | PASS       | Success
+scene_8999.txt                      | PASS       | Success
+scene_9012.txt                      | PASS       | Success
+scene_9038.txt                      | FAIL       | Collision: Node 11->12 hit Obstacle 3
+scene_9058.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 2
+scene_906.txt                       | PASS       | Success
+scene_9061.txt                      | FAIL       | Collision: Node 1->2 hit Obstacle 0
+scene_908.txt                       | PASS       | Success
+scene_9096.txt                      | PASS       | Success
+scene_9097.txt                      | PASS       | Success
+scene_9112.txt                      | PASS       | Success
+scene_9113.txt                      | PASS       | Success
+scene_9133.txt                      | PASS       | Success
+scene_9147.txt                      | PASS       | Success
+scene_9150.txt                      | PASS       | Success
+scene_9151.txt                      | PASS       | Success
+scene_9163.txt                      | PASS       | Success
+scene_9165.txt                      | PASS       | Success
+scene_9171.txt                      | PASS       | Success
+scene_9180.txt                      | PASS       | Success
+scene_9183.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_9208.txt                      | PASS       | Success
+scene_9210.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 2
+scene_9211.txt                      | PASS       | Success
+scene_922.txt                       | PASS       | Success
+scene_9220.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_9225.txt                      | FAIL       | Collision: Node 5->6 hit Obstacle 4
+scene_9229.txt                      | PASS       | Success
+scene_9261.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 0
+scene_9266.txt                      | PASS       | Success
+scene_9268.txt                      | FAIL       | Collision: Node 10->11 hit Obstacle 1
+scene_9299.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 3
+scene_9305.txt                      | PASS       | Success
+scene_9312.txt                      | PASS       | Success
+scene_9333.txt                      | PASS       | Success
+scene_9337.txt                      | PASS       | Success
+scene_9355.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 1
+scene_936.txt                       | PASS       | Success
+scene_9378.txt                      | PASS       | Success
+scene_9381.txt                      | PASS       | Success
+scene_9402.txt                      | PASS       | Success
+scene_9406.txt                      | PASS       | Success
+scene_9407.txt                      | FAIL       | Collision: Node 9->10 hit Obstacle 3
+scene_9411.txt                      | PASS       | Success
+scene_9424.txt                      | PASS       | Success
+scene_943.txt                       | PASS       | Success
+scene_9443.txt                      | PASS       | Success
+scene_9461.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 0
+scene_9462.txt                      | PASS       | Success
+scene_9470.txt                      | PASS       | Success
+scene_9478.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_9480.txt                      | PASS       | Success
+scene_9486.txt                      | PASS       | Success
+scene_9487.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 2
+scene_9514.txt                      | PASS       | Success
+scene_9516.txt                      | PASS       | Success
+scene_9523.txt                      | PASS       | Success
+scene_9535.txt                      | FAIL       | Collision: Node 4->5 hit Obstacle 2
+scene_9536.txt                      | PASS       | Success
+scene_9550.txt                      | PASS       | Success
+scene_9560.txt                      | PASS       | Success
+scene_9561.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 1
+scene_9563.txt                      | PASS       | Success
+scene_9571.txt                      | PASS       | Success
+scene_9573.txt                      | PASS       | Success
+scene_9585.txt                      | PASS       | Success
+scene_9593.txt                      | FAIL       | Collision: Node 11->11 hit Obstacle 4
+scene_961.txt                       | PASS       | Success
+scene_9626.txt                      | PASS       | Success
+scene_9630.txt                      | FAIL       | Collision: Node 7->8 hit Obstacle 3
+scene_964.txt                       | PASS       | Success
+scene_9640.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 2
+scene_9646.txt                      | PASS       | Success
+scene_9657.txt                      | PASS       | Success
+scene_966.txt                       | PASS       | Success
+scene_9676.txt                      | PASS       | Success
+scene_9695.txt                      | PASS       | Success
+scene_9730.txt                      | PASS       | Success
+scene_974.txt                       | FAIL       | Collision: Node 3->4 hit Obstacle 2
+scene_9740.txt                      | PASS       | Success
+scene_9745.txt                      | PASS       | Success
+scene_9761.txt                      | PASS       | Success
+scene_9774.txt                      | PASS       | Success
+scene_9776.txt                      | PASS       | Success
+scene_9777.txt                      | PASS       | Success
+scene_9778.txt                      | PASS       | Success
+scene_9782.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_9794.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 0
+scene_9800.txt                      | FAIL       | Collision: Node 5->6 hit Obstacle 2
+scene_9812.txt                      | PASS       | Success
+scene_9827.txt                      | PASS       | Success
+scene_983.txt                       | PASS       | Success
+scene_9849.txt                      | PASS       | Success
+scene_9867.txt                      | PASS       | Success
+scene_9890.txt                      | FAIL       | Collision: Node 8->9 hit Obstacle 2
+scene_9905.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 3
+scene_9912.txt                      | PASS       | Success
+scene_9921.txt                      | PASS       | Success
+scene_9930.txt                      | FAIL       | Collision: Node 3->4 hit Obstacle 1
+scene_9938.txt                      | PASS       | Success
+scene_9944.txt                      | PASS       | Success
+scene_9948.txt                      | PASS       | Success
+scene_995.txt                       | PASS       | Success
+scene_9955.txt                      | PASS       | Success
+scene_9961.txt                      | PASS       | Success
+scene_9969.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 1
+scene_9971.txt                      | PASS       | Success
+scene_9976.txt                      | FAIL       | Collision: Node 2->3 hit Obstacle 0
+scene_9999.txt                      | PASS       | Success
+-------------------------------------------------------------------------------------
+Total: 957 | Passed: 645 | Failed: 312
+Success Rate: 67.40%
+
+List of Failed Files:
+ - scene_078.txt
+ - scene_101.txt
+ - scene_1027.txt
+ - scene_1034.txt
+ - scene_1080.txt
+ - scene_1095.txt
+ - scene_1097.txt
+ - scene_111.txt
+ - scene_1137.txt
+ - scene_1147.txt
+ - scene_1151.txt
+ - scene_1159.txt
+ - scene_1164.txt
+ - scene_1189.txt
+ - scene_1207.txt
+ - scene_1237.txt
+ - scene_1240.txt
+ - scene_1314.txt
+ - scene_1322.txt
+ - scene_1324.txt
+ - scene_1364.txt
+ - scene_1403.txt
+ - scene_1441.txt
+ - scene_1447.txt
+ - scene_1542.txt
+ - scene_1547.txt
+ - scene_1569.txt
+ - scene_159.txt
+ - scene_1597.txt
+ - scene_1617.txt
+ - scene_1639.txt
+ - scene_1650.txt
+ - scene_1698.txt
+ - scene_1734.txt
+ - scene_1776.txt
+ - scene_1789.txt
+ - scene_1813.txt
+ - scene_1822.txt
+ - scene_1835.txt
+ - scene_1846.txt
+ - scene_1894.txt
+ - scene_1962.txt
+ - scene_1967.txt
+ - scene_2034.txt
+ - scene_2126.txt
+ - scene_2174.txt
+ - scene_2179.txt
+ - scene_2191.txt
+ - scene_2250.txt
+ - scene_2312.txt
+ - scene_2319.txt
+ - scene_233.txt
+ - scene_2345.txt
+ - scene_2362.txt
+ - scene_2391.txt
+ - scene_2393.txt
+ - scene_2469.txt
+ - scene_249.txt
+ - scene_2492.txt
+ - scene_254.txt
+ - scene_2557.txt
+ - scene_2574.txt
+ - scene_258.txt
+ - scene_2615.txt
+ - scene_262.txt
+ - scene_2620.txt
+ - scene_2639.txt
+ - scene_2677.txt
+ - scene_2726.txt
+ - scene_2736.txt
+ - scene_279.txt
+ - scene_2828.txt
+ - scene_2831.txt
+ - scene_2833.txt
+ - scene_2838.txt
+ - scene_2851.txt
+ - scene_2858.txt
+ - scene_2882.txt
+ - scene_2941.txt
+ - scene_2945.txt
+ - scene_2960.txt
+ - scene_2969.txt
+ - scene_3008.txt
+ - scene_3123.txt
+ - scene_3209.txt
+ - scene_3263.txt
+ - scene_3294.txt
+ - scene_3319.txt
+ - scene_3330.txt
+ - scene_3364.txt
+ - scene_3370.txt
+ - scene_3379.txt
+ - scene_3460.txt
+ - scene_3504.txt
+ - scene_3528.txt
+ - scene_3555.txt
+ - scene_361.txt
+ - scene_3612.txt
+ - scene_3659.txt
+ - scene_3664.txt
+ - scene_3669.txt
+ - scene_368.txt
+ - scene_3681.txt
+ - scene_3682.txt
+ - scene_3685.txt
+ - scene_3686.txt
+ - scene_3692.txt
+ - scene_3707.txt
+ - scene_3720.txt
+ - scene_3777.txt
+ - scene_3801.txt
+ - scene_3808.txt
+ - scene_3824.txt
+ - scene_3931.txt
+ - scene_3947.txt
+ - scene_3995.txt
+ - scene_4014.txt
+ - scene_4037.txt
+ - scene_4056.txt
+ - scene_410.txt
+ - scene_4131.txt
+ - scene_4235.txt
+ - scene_424.txt
+ - scene_4254.txt
+ - scene_4257.txt
+ - scene_4269.txt
+ - scene_4332.txt
+ - scene_435.txt
+ - scene_4370.txt
+ - scene_4372.txt
+ - scene_4379.txt
+ - scene_4406.txt
+ - scene_4446.txt
+ - scene_4474.txt
+ - scene_4475.txt
+ - scene_4488.txt
+ - scene_4544.txt
+ - scene_4556.txt
+ - scene_4609.txt
+ - scene_4617.txt
+ - scene_4721.txt
+ - scene_4754.txt
+ - scene_4768.txt
+ - scene_4783.txt
+ - scene_4787.txt
+ - scene_4826.txt
+ - scene_4866.txt
+ - scene_4923.txt
+ - scene_4982.txt
+ - scene_5088.txt
+ - scene_5152.txt
+ - scene_5161.txt
+ - scene_5195.txt
+ - scene_5200.txt
+ - scene_5230.txt
+ - scene_5301.txt
+ - scene_5302.txt
+ - scene_5346.txt
+ - scene_537.txt
+ - scene_5390.txt
+ - scene_5405.txt
+ - scene_5407.txt
+ - scene_5544.txt
+ - scene_5557.txt
+ - scene_5574.txt
+ - scene_5577.txt
+ - scene_5578.txt
+ - scene_5726.txt
+ - scene_5802.txt
+ - scene_5805.txt
+ - scene_5807.txt
+ - scene_5841.txt
+ - scene_5862.txt
+ - scene_5870.txt
+ - scene_5871.txt
+ - scene_5895.txt
+ - scene_593.txt
+ - scene_5953.txt
+ - scene_596.txt
+ - scene_600.txt
+ - scene_6004.txt
+ - scene_6037.txt
+ - scene_6050.txt
+ - scene_6084.txt
+ - scene_6155.txt
+ - scene_616.txt
+ - scene_6189.txt
+ - scene_621.txt
+ - scene_6215.txt
+ - scene_6247.txt
+ - scene_6303.txt
+ - scene_6307.txt
+ - scene_6372.txt
+ - scene_6410.txt
+ - scene_6435.txt
+ - scene_6460.txt
+ - scene_6462.txt
+ - scene_6513.txt
+ - scene_6518.txt
+ - scene_6538.txt
+ - scene_6592.txt
+ - scene_6605.txt
+ - scene_6614.txt
+ - scene_6620.txt
+ - scene_6632.txt
+ - scene_6655.txt
+ - scene_6658.txt
+ - scene_6681.txt
+ - scene_6727.txt
+ - scene_6757.txt
+ - scene_6776.txt
+ - scene_6861.txt
+ - scene_6876.txt
+ - scene_6908.txt
+ - scene_6968.txt
+ - scene_6971.txt
+ - scene_6972.txt
+ - scene_6980.txt
+ - scene_7021.txt
+ - scene_7036.txt
+ - scene_7047.txt
+ - scene_7068.txt
+ - scene_7085.txt
+ - scene_7111.txt
+ - scene_7119.txt
+ - scene_7122.txt
+ - scene_7190.txt
+ - scene_7264.txt
+ - scene_7376.txt
+ - scene_7387.txt
+ - scene_7467.txt
+ - scene_7469.txt
+ - scene_7592.txt
+ - scene_7601.txt
+ - scene_7607.txt
+ - scene_7613.txt
+ - scene_7640.txt
+ - scene_765.txt
+ - scene_7670.txt
+ - scene_7675.txt
+ - scene_7684.txt
+ - scene_7720.txt
+ - scene_7784.txt
+ - scene_7826.txt
+ - scene_783.txt
+ - scene_7842.txt
+ - scene_7885.txt
+ - scene_7921.txt
+ - scene_7930.txt
+ - scene_7954.txt
+ - scene_797.txt
+ - scene_8034.txt
+ - scene_8057.txt
+ - scene_8088.txt
+ - scene_8123.txt
+ - scene_8156.txt
+ - scene_8160.txt
+ - scene_8198.txt
+ - scene_8217.txt
+ - scene_8278.txt
+ - scene_829.txt
+ - scene_8307.txt
+ - scene_8309.txt
+ - scene_8320.txt
+ - scene_8327.txt
+ - scene_8380.txt
+ - scene_8388.txt
+ - scene_8457.txt
+ - scene_8483.txt
+ - scene_8561.txt
+ - scene_8601.txt
+ - scene_867.txt
+ - scene_8674.txt
+ - scene_8734.txt
+ - scene_8777.txt
+ - scene_8787.txt
+ - scene_8815.txt
+ - scene_8879.txt
+ - scene_8891.txt
+ - scene_8923.txt
+ - scene_8929.txt
+ - scene_8979.txt
+ - scene_8991.txt
+ - scene_9038.txt
+ - scene_9058.txt
+ - scene_9061.txt
+ - scene_9183.txt
+ - scene_9210.txt
+ - scene_9220.txt
+ - scene_9225.txt
+ - scene_9261.txt
+ - scene_9268.txt
+ - scene_9299.txt
+ - scene_9355.txt
+ - scene_9407.txt
+ - scene_9461.txt
+ - scene_9478.txt
+ - scene_9487.txt
+ - scene_9535.txt
+ - scene_9561.txt
+ - scene_9593.txt
+ - scene_9630.txt
+ - scene_9640.txt
+ - scene_974.txt
+ - scene_9782.txt
+ - scene_9794.txt
+ - scene_9800.txt
+ - scene_9890.txt
+ - scene_9905.txt
+ - scene_9930.txt
+ - scene_9969.txt
+ - scene_9976.txt

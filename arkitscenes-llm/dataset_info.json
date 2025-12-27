@@ -1,0 +1,16 @@
+{
+  "mixed_train_dataset": {
+    "file_name": "arkitscenes_train.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "arkitscenes_val": {
+    "file_name": "arkitscenes_val.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  }
+}

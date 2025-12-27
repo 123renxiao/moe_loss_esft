@@ -1,0 +1,46 @@
+### model
+model_name_or_path: /data/storage2/liwentian/model/deepseek_v2_lite  # 或者本地路径
+trust_remote_code: true
+flash_attn: fa2
+
+### method
+stage: sft
+do_train: true
+finetuning_type: full
+# deepseek-v2-lite 是 MoE 模型，Deepspeed ZeRO3 兼容性良好
+
+### dataset
+dataset: mixed_train_dataset  # 请替换为你自己的数据集名称，需在 data/dataset_info.json 中注册
+eval_dataset: arkitscenes_val
+template: deepseek
+cutoff_len: 4096
+overwrite_cache: true
+preprocessing_num_workers: 16
+
+### output
+output_dir: saves/DeepSeek-V2-Lite-Chat/full/sft
+logging_steps: 10
+save_steps: 50
+plot_loss: true
+overwrite_output_dir: true
+report_to: wandb      
+run_name: deepseekv2_full_sft_run1 
+
+### train
+per_device_train_batch_size: 32  # H100 显存较大，配合 Offload 可以尝试开大一点，如果 OOM 请调小
+gradient_accumulation_steps: 2
+learning_rate: 1.0e-5
+num_train_epochs: 3.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+bf16: true
+ddp_timeout: 180000000
+remove_unused_columns: false
+
+### eval
+per_device_eval_batch_size: 1       # 验证时的 Batch Size
+eval_strategy: steps                # 策略：按步数评估
+eval_steps: 300                     # 每训练 500 步评估一次验证集
+
+### deepspeed
+deepspeed: examples/deepspeed/ds_z3_offload_config.json

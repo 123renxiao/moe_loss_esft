@@ -1,0 +1,40 @@
+### model
+model_name_or_path: /data/storage2/liwentian/model/Qwen/Qwen3-4B-Instruct-2507
+
+### method
+stage: sft
+do_train: true
+finetuning_type: full
+# deepspeed: examples/deepspeed/ds_z2_config.json  # 显存不足时开启
+
+### dataset
+dataset: arkitscenes_train   # 指定训练集 Key
+eval_dataset: arkitscenes_val # 指定验证集 Key (实现边训边看)
+template: qwen
+cutoff_len: 2048
+overwrite_cache: true
+preprocessing_num_workers: 16
+
+### output
+output_dir: saves/qwen3-4b/10_epoch/sft
+logging_steps: 10
+save_steps: 500
+plot_loss: true
+overwrite_output_dir: true
+report_to: wandb      
+run_name: qwen_full_sft_run1 # 
+
+### train
+per_device_train_batch_size: 1      # 0.5B 模型较小，可适当调大 Batch Size
+gradient_accumulation_steps: 16
+learning_rate: 2.0e-5
+num_train_epochs: 10.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+bf16: true
+ddp_timeout: 180000000
+
+### eval
+per_device_eval_batch_size: 1       # 验证时的 Batch Size
+eval_strategy: steps                # 策略：按步数评估
+eval_steps: 500                     # 每训练 500 步评估一次验证集

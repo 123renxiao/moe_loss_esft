@@ -1,0 +1,27 @@
+@dataclass
+class Obstacle:
+    ax: int
+    ay: int
+    az: int
+    bx: int
+    by: int
+    bz: int
+    height: int
+    thickness: int
+
+@dataclass
+class Terminal:
+    position_x: int
+    position_y: int
+    position_z: int
+    normal_x: int
+    normal_y: int
+    normal_z: int
+    radius: int
+
+@dataclass
+class Node:
+    x: int
+    y: int
+    z: int
+    terminal_id: int
