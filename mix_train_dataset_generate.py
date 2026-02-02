@@ -1,3 +1,13 @@
+"""
+混合训练数据集生成器
+========================
+本脚本从多个不同领域的数据集中混合采样，生成用于多任务学习的训练数据。
+支持7种数据集，每种数据集对应一个专家标签（_tag字段）。
+
+作者：Li Wentian
+日期：2025年12月
+"""
+
 import json
 import random
 import os
@@ -6,7 +16,7 @@ import csv
 import sys
 from datasets import load_from_disk
 
-# Increase CSV field size limit for large text fields
+# 增加CSV字段大小限制，以支持包含长文本的数据
 csv.field_size_limit(sys.maxsize)
 
 # ================= 配置路径 =================
@@ -40,6 +50,17 @@ output_path = os.path.join(BASE_DIR, "llm_pipe_gen/arkitscenes-llm/mixed_train_d
 # ================= 辅助函数 =================
 
 def format_sharegpt(input_text, output_text, tag_id):
+    """
+    将输入输出文本转换为ShareGPT对话格式
+    
+    参数:
+        input_text: 用户输入（问题/任务描述）
+        output_text: 模型输出（答案/结果）
+        tag_id: 专家标签ID，用于区分不同领域的数据
+    
+    返回:
+        字典，包含conversations列表和_tag字段
+    """
     return {
         "conversations": [
             {
@@ -51,10 +72,20 @@ def format_sharegpt(input_text, output_text, tag_id):
                 "value": str(output_text)
             }
         ],
-        "_tag": tag_id
+        "_tag": tag_id  # 专家标签，MoE模型可以利用此标签进行专家路由
     }
 
 def sample_data(data_list, num_samples):
+    """
+    从数据列表中随机采样指定数量的样本
+    
+    参数:
+        data_list: 原始数据列表
+        num_samples: 需要采样的数量，0或负数表示使用全部数据
+    
+    返回:
+        采样后的数据列表
+    """
     if num_samples > 0 and len(data_list) > num_samples:
         return random.sample(data_list, num_samples)
     return data_list
@@ -62,10 +93,27 @@ def sample_data(data_list, num_samples):
 # ================= 加载函数 =================
 
 def load_hf_dataset(path, split_name, num_samples, tag_id, input_col, output_col):
+    """
+    从HuggingFace格式的数据集中加载数据
+    
+    参数:
+        path: 数据集路径（使用load_from_disk加载）
+        split_name: 数据集分割名称（如'train', 'test'）
+        num_samples: 采样数量
+        tag_id: 专家标签ID
+        input_col: 输入列名
+        output_col: 输出列名
+    
+    返回:
+        ShareGPT格式的数据列表
+    """
     print(f"[{tag_id}] 正在加载 HF 数据: {path} ...")
     formatted_data = []
     try:
+        # 加载数据集字典
         dataset_dict = load_from_disk(path)
+        
+        # 检查split是否存在，不存在则使用第一个可用的split
         if split_name not in dataset_dict:
             available = list(dataset_dict.keys())
             if not available:
@@ -77,13 +125,14 @@ def load_hf_dataset(path, split_name, num_samples, tag_id, input_col, output_col
         dataset = dataset_dict[split_name]
         total_len = len(dataset)
         
-        # 采样索引
+        # 采样索引，避免加载全部数据到内存
         if num_samples > 0 and total_len > num_samples:
             indices = random.sample(range(total_len), num_samples)
             selected_items = [dataset[i] for i in indices]
         else:
             selected_items = list(dataset)
 
+        # 转换为ShareGPT格式
         for item in selected_items:
             formatted_data.append(format_sharegpt(item[input_col], item[output_col], tag_id))
             
